@@ -58,10 +58,10 @@ Ecoleta é um projeto que conecta pessoas e empresas na coleta de resíduos ♻
   $ npm install
 
   # Rode as migrations
-  $ npm knex:migrate
+  $ npm run knex:migrate
 
   # Rode as seeds
-  $ npm knex:seed
+  $ npm run knex:seed
 
   # Inicie o servidor
   $ npm dev run
